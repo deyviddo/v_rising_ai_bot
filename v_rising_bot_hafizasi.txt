@@ -1,0 +1,282 @@
+
+=== KATEGORİ: BOSSLAR ===
+This page lists all V Blood Carriers. for a list of all non-V Blood Enemies, see its respective page.
+Tracking V Bloods is done through the V Blood Menu (default key K) after completing the Journal quest Getting Ready for the Hunt. At 50% health, V Bloods spawn at least 3 Blood Orbs, restoring 7.5% max health on pick-up.
+On Relaxed Difficulty they have 20% less health & deal 40% less damage. On Brutal Difficulty they have 25% more health, deal 70% more damage, are 3 levels higher and often have more abilities and combat behaviours.
+↑ Dev Update #9: Secrets of V Blood
+
+=== KATEGORİ: EŞYALAR ===
+This page lists all inventory items, reagents, consumables, etc. and their recipes. Item stacks can be split evenly with the middle mouse button, and they can be pinned in the UI. You can take all items from a Storage Container with the default key Q. Finally, Crafting & Refinement recipes can be disabled at each station.See Equipment for a list of equippable items, Waygates for teleportable items, and Vendors for buyable items.
+1 Reagents & Resources
+
+1.1 Wood
+1.2 Stones
+1.3 Ores & Ingots
+1.4 Bones & Hides
+1.5 Leathers & Fabrics
+1.6 Glass & Crystals
+1.7 Gems
+
+1.7.1 Crude
+1.7.2 Regular
+1.7.3 Flawless
+
+
+1.8 Tech
+1.9 Coins
+1.10 Knowledge
+1.11 Blood
+1.12 Fish
+1.13 Plants
+1.14 Seeds
+1.15 Tree Saplings
+1.16 Summons
+
+1.16.1 Tomb
+1.16.2 Vermin Nest
+1.16.3 Stygian Summoning Circle
+
+
+1.17 Alchemy
+
+1.17.1 Containers
+1.17.2 Consumables
+
+1.17.2.1 Brews
+1.17.2.2 Potions
+1.17.2.3 Elixirs
+1.17.2.4 Coatings
+1.17.2.5 Throwable Potions
+
+
+
+
+1.18 PvP
+1.19 Removed Items
+1.3 Ores & Ingots
+1.4 Bones & Hides
+1.5 Leathers & Fabrics
+1.6 Glass & Crystals
+1.7 Gems
+
+1.7.1 Crude
+1.7.2 Regular
+1.7.3 Flawless
+1.7.1 Crude
+1.7.2 Regular
+1.7.3 Flawless
+1.10 Knowledge
+1.13 Plants
+1.15 Tree Saplings
+1.16 Summons
+
+1.16.1 Tomb
+1.16.2 Vermin Nest
+1.16.3 Stygian Summoning Circle
+1.16.1 Tomb
+1.16.2 Vermin Nest
+1.16.3 Stygian Summoning Circle
+1.17 Alchemy
+
+1.17.1 Containers
+1.17.2 Consumables
+
+1.17.2.1 Brews
+1.17.2.2 Potions
+1.17.2.3 Elixirs
+1.17.2.4 Coatings
+1.17.2.5 Throwable Potions
+1.17.1 Containers
+1.17.2 Consumables
+
+1.17.2.1 Brews
+1.17.2.2 Potions
+1.17.2.3 Elixirs
+1.17.2.4 Coatings
+1.17.2.5 Throwable Potions
+1.17.2.1 Brews
+1.17.2.2 Potions
+1.17.2.3 Elixirs
+1.17.2.4 Coatings
+1.17.2.5 Throwable Potions
+1.19 Removed Items
+2 Recipe Tables
+Reagents & Resources[]
+Ores & Ingots[]
+Bones & Hides[]
+Leathers & Fabrics[]
+Glass & Crystals[]
+Knowledge[]
+Tree Saplings[]
+Removed Items[]
+Recipe Tables[]
+Item Recipes
+Raw Resources
+Consumable Recipes
+Item Recipes[]
+Raw Resources[]
+Skeleton Enemies
+See Seeds & Saplings
+Regular Trees
+Hallowed Mountains trees
+Gloomrot trees
+Cursed Forest trees
+Oakveil Woodlands trees
+Carvers Logging Outpost
+Venom Blades Carvers Camp
+Oakveil Woodlands, Corrupted Oak & Corrupted Fish
+Carvers Logging Outpost
+Rock Minerals
+Stone Ruins
+Bandit Camps
+Bandit Armory
+Bandit Camps
+Bandit Sulphur Quarry
+Copper Minerals
+Copper Ore Veins
+Bandit Copper Mine
+Bandit Copper Camp
+Bandit Copper Quarry
+Trancendum Mine
+Sulphur Minerals
+Sulphur Ore Veins
+Bandit Sulphur Quarry
+Bandit Stronghold
+Bastion of Dunley
+Trancendum Mine
+Iron Ore Minerals
+Iron Ore Veins
+Haunted Iron Mine
+Silver Ore Minerals
+Sacred Silver Mine
+Quartz Minerals
+Quartz Quarry
+Cursed Forest
+Cursed Village
+Ancient Village
+Dracula's Demise
+Oakveil Woodlands
+Venom Blades Bastion
+Oakveil Shoreline
+Silverlight Hills
+V Blood Carriers Act III+
+Brighthaven Cathedral
+Brighthaven Square
+Gem Veins in Farbane Woods & Dunley Farmlands
+Gem Veins in All Regions
+Bedrock Pass
+Gem Veins in Silverlight Hills & Oakveil Woodlands
+Bandit Camps
+Bandit Camp
+Bandit Outpost
+Bandit Logging Camp
+Bandit Trapper Camp
+Bandit Copper Camp
+Bandit Copper Quarry
+Bandit Camps
+Bandit Trapper Camp
+Dropped by all creatures in Hallowed Mountains, such as Bears and Wolves.
+Werewolves & most creatures in Cursed Forest.
+Lurker Dwelling
+Dark Temptress & Gargoyles in Ruins of Mortium
+See Fishing
+Fish (Placed in The Devourer)
+Fish (Placed in The Devourer)
+Brighthaven Docks
+Mosswick Village
+Mutant enemies in Gloomrot.
+Refining Gloom Wood
+Pools of Rebirth
+Trancendum Camps
+Drops from most enemies and general loot in Gloomrot.
+Trancendum Laboratories
+Trancendum Machine Factory
+Gloomrot Farm
+Trancendum Camps
+Tech Scrap Piles and all machine enemies in Gloomrot.
+Stormdrain Hills
+Thunderstrike Peak
+Trancendum Power Plant
+Trancendum Camps
+Consumable Recipes[]
+Throwable Potions (Exclusive to Oakveil Woodlands)[]
+Beauty Elixir - Polymorphs all targets in the area into Sheep. Is required to end Lucile's "Alchemic Madness" state.
+Liquid Fire - Sets the area and all targets entering it on fire. The burn makes Gold Golems vulnerable to attacks for the duration. Instantly kills Corrupted Mantrap.
+Pixies Luck - Dramatically increases player movement speed.
+Potion of Dispel - Knocks targets back and dispels all effects on targets hit, including Lucile's "Gold Skin" invulnerability.
+Rejuvenation Juice - Applies a healing buff to targets in the area. Taking damage ends the effect.
+Removed Items
+Imperial Thread
+Highland Lotus
+Highland Lotus Seeds
+Filled Waterskin
+Water-filled Bottle
+Empty Canister
+Vampiric Brew
+↑ Return to Top
+
+=== KATEGORİ: SILAHLAR ===
+This page lists all weapons & their respective stats. For Weapon Skills, visit the dedicated weapon pages:
+1 Melee Weapons
+2 Unique Weapons
+3 Ranged Weapons
+4 Legendary Artifact Weapons
+5 Removed Weapons
+Melee Weapons[]
+Iron Greatsword recipe unlocks after feeding on Tristan the Vampire Hunter.
+Iron Reaper recipe unlocks after feeding on Kriig the Undead General.
+Iron Claw recipe unlocks after feeding on Frostmaw the Mountain Terror.
+Iron Twinblade recipe unlocks after feeding on Gaius the Cursed Champion.
+Iron Whip recipe unlocks after feeding on Domina the Blade Dancer.
+Sanguine Tier Whip recipe unlocks after feeding on Simon Belmont the Vampire Hunter.
+Iron Slashers recipe unlocks after feeding on Jakira the Shadow Huntress.
+Unique Weapons[]
+Ranged Weapons[]
+Copper Crossbow recipe unlocks after feeding on Rufus the Foreman.
+Copper Longbow recipe unlocks after feeding on Lidia the Chaos Archer.
+Iron Dagger recipe unlocks after feeding on Bane the Shadowblade.
+Iron Pistols recipe unlocks after feeding on Jade the Vampire Hunter.
+Legendary Artifact Weapons[]
+Artifacts are uniquely named weapons with weapon skill modifications. They are crafted at the Ancestral Forge using Legendary Artifact shards, which have a 15% chance of dropping from Tier 2 Rift Incursions as well as Epic Ancestral Weapon Shard purchases from the Vampire Merchant.
+Removed Weapons[]
+↑ Return to Top
+
+=== KATEGORİ: YAPILAR ===
+
+=== KATEGORİ: KAN_TIPLERI ===
+"You will slowly lose health and ultimately perish if you run out of blood."
+Example of a Frail Type Blood Pool; no bonuses.
+Blood is a key resource in V Rising.
+The player must continuously find new victims lest they run out of blood entirely. Feeding on a blood-carrying target (victim) will refill the player's Blood Pool to its maximum capacity of 10 liters and absorb the victim's blood type (Creature, Rogue, Warrior, etc.). Later on in the game the player unlocks Blood Potion and Blood Merlot, which allows them to store blood for later consumption. Each blood type provides different passive bonuses, with higher quality blood granting stronger bonuses. The 5 tiers of Blood Pool powers are unlocked at different percentage levels. For example, Tier IV Blood Pool powers will only be unlocked by draining a 90%+ blood quality victim.
+The Blood Pool drains slowly over time, and faster when dealing & taking damage or using particular vampire powers such as Blood Mend or Expose Vein. Dying will immediately incur a 1 liter Blood Pool loss. Blood drainage can be virtually paused whilst sleeping in a Coffin. Blood drain is reduced by 25% on Relaxed Difficulty.Upon running out of a non-frailed Blood Pool, the player's Blood Pool will revert to 1 liter of  Frailed blood. If their frailed Blood Pool runs out, the player's health will slowly deplete to 1 health. Feeding on any source of blood will restore the player's health regeneration.
+Prior to v1.0, a player's current Blood Pool could not be refilled by any means. However, as of update 1.0, it is now possible by feeding on a defeated Primal Blood Soul, either from a Tier 2 Rift Incursion in the Ruins of Mortium or a summoned one from the Stygian Summoning Circle. Doing so will refill the player's current Blood Pool by 5 liters (50%).
+1 Blood Types & Quality
+
+1.1 Threshold Percentages
+1.2 Bonus Scaling
+1.3 Detecting Blood Types
+1.1 Threshold Percentages
+1.2 Bonus Scaling
+1.3 Detecting Blood Types
+2 Blood Consumables
+4 Blood Pool Examples
+Blood Types & Quality[]
+Threshold Percentages[]
+Blood Quality % required to unlock each Tier
+Bonus Scaling[]
+For tiers I - III, at least one variable is proportional to the quality of the given blood, down to a minimum of half the max potential bonus. For example,  Worker Blood's Tier 1 bonus will provide at least 12% but up-to 24% Increased Resource yield, the value of which ranges between 1% and 100% Blood Quality:
+1% Blood Quality => 12% Increased Resource yield
+30% Blood Quality => 15.6% Increased Resource yield
+50% Blood Quality => 18% Increased Resource yield
+99% Blood Quality => 24% Increased Resource yield
+100% Blood Quality => ~29% Increased Resource yield (including Tier V bonus of +20%)
+Detecting Blood Types[]
+Example of the Blood Hunger ability with the blood type icon and percentage displayed.
+Mouse over a victim to display the blood type and blood quality percentage. See Enemies for a list of all enemies with a blood type.
+Once the player has fed on the V Blood Carrier Tristan the Vampire Hunter, they will unlock the Blood Hunger ability. Blood Hunger places the player in a blood detection mode, displaying the blood type icon and percentage over all victims' heads, instead of needing to mouse over.
+Blood Consumables[]
+The player can consume items such as Rats and Tainted Hearts to restore a small amount of their blood pool, at the cost of changing their blood type to 'frailed', losing all blood type bonuses.
+Once the player has fed on the V Blood Carrier Vincent the Frostbringer, they will unlock Prison Cells. By using the Dominate Vampire Power they can imprison high-quality human victims and repeatedly extract Blood Potions / Blood Merlots from them. Allowing for a consistent supply of high quality blood.
+Once the player has fed on Lucile the Venom Alchemist, they will additionally be able to mix Blood Potions via the Blood Homogenizer. This allows for fusing one of the blood traits in a potion into another. If the blood quality of the secondary potion is 90% or higher, the IV bonus will also be infused.
+Servants increase in power and effectiveness with blood quality level. For more info see Servants.
+Blood Pool Examples[]
