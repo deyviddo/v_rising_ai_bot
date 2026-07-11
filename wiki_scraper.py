@@ -11,7 +11,7 @@ categories = {
     "Blood_Types": "https://v-rising.fandom.com/wiki/Blood_Types"
 }
 
-output_file = "v_rising_bot_hafizasi.txt"
+output_file = "v_rising_bot_memory.txt"
 
 
 def run_scraper():
@@ -50,7 +50,6 @@ def run_scraper():
         print("[SCRAPER SUCCESS] Memory file updated successfully.")
     except Exception as e:
         print(f"[SCRAPER ERROR] Extraction failed: {e}")
-
 
 
 if __name__ == "__main__":
